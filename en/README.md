@@ -1,1 +1,1 @@
-Bienvenu sur la Foire Aux Questions d'IMIS!
+Welcome to the IMIS Frequently Asked Questions!
