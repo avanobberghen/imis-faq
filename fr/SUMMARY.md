@@ -1,11 +1,11 @@
 # Summary
 
-## Section 1
+## Adhésion
 
-* [Comment créer un adhérent](Adh-sion/Comment créer un adhérent.md)
-* [Comment créer un adhérent](Adh-sion/Comment créer un adhérent.md)
-* [Comment créer un adhérent](Adh-sion/Comment créer un adhérent.md)
+* [Comment créer une famille/groupe](Articles/Créer_adhérent.md)
+* [Comment créer un assuré](Articles/Créer_assuré.md)
+* [Comment ajouter une police d'assurance](Articles/Ajouter_police.md)
 
-## Section 1
+## Remboursement
 
-* [Comment créer un adhérent](Adh-sion/Comment créer un adhérent.md)
+* [Comment faire une demande de remboursement](Articles/Demande_remboursement.md)
