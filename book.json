@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "theme-faq",
+    "language-picker",
+    "-fontsettings",		
+    "-sharing"
+  ],
+  "pluginsConfig": {
+        "language-picker": {
+            "grid-columns": 3
+        }
+    }
+}
