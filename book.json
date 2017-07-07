@@ -2,7 +2,8 @@
   "gitbook": ">=3.2.0",
   "plugins": [
     "theme-faq",
-    "language-picker"
+    "language-picker",
+    "-sharing"
   ],
   "pluginsConfig": {
         "language-picker": {
