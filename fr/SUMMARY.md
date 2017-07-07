@@ -1,3 +1,3 @@
 # Summary
 
-* [Comment créer un adhérent](fr/Adh-sion/Comment créer un adhérent.md)
+* [Comment créer un adhérent](Adh-sion/Comment créer un adhérent.md)
