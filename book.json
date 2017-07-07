@@ -3,6 +3,7 @@
   "plugins": [
     "theme-faq",
     "language-picker",
+    "-fontsettings",
     "-sharing"
   ],
   "pluginsConfig": {
